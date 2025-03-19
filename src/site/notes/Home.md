@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["#Literature","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["#Literature","gardenEntry","gardenEntry"]}
 ---
 
 # <center>Welcome to Gamilar's Technohive</center>
