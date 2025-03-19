@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["#Literature","gardenEntry","gardenEntry","gardenEntry"],"created":"2024-05-09T17:53:10.361+01:00","updated":"2025-03-19T13:52:25.433+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["#Literature","gardenEntry"],"created":"2024-05-09T17:53:10.361+01:00","updated":"2025-03-19T14:10:14.956+00:00"}
 ---
 
 # <center>Welcome to Gamilar's Technohive</center>
 
-## <center>Consultant, Husband, Stepfather, Grand-stepfather, Dancer, Gamer, Geek!</center>
 > [!infobox|right clean]
 > ![GM_Nicodemus-darkgreen.jpg|profile+round](/img/user/z_Assets/PCs/Avatars/GM_Nicodemus-darkgreen.jpg)
+
+## <center>Consultant, Husband, Stepfather, Grand-stepfather, Dancer, Gamer, Geek!</center>
 
 ### About Me
 Greetings! I'm Gamilar, a multi-faceted individual with a passion for life's diverse experiences.
