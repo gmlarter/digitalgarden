@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["#Literature","gardenEntry","gardenEntry"],"created":"2024-05-09T17:53:10.361+01:00","updated":"2025-03-19T14:10:14.956+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["#Literature","gardenEntry"],"created":"2024-05-09T17:53:10.361+01:00","updated":"2025-03-20T11:23:47.601+00:00"}
 ---
 
 # <center>Welcome to Gamilar's Technohive</center>
@@ -12,7 +12,7 @@
 ### About Me
 Greetings! I'm Gamilar, a multi-faceted individual with a passion for life's diverse experiences.
 
-I currently live near Exeter with my beloved wife; I suffered a stroke in 2018, and it took me about a year to recover. Moving to Devon had been a benefit as it helped to relieve my stress levels, and it allowed us to be closer to our grandkids (which was a bonus).
+I currently live near Exeter with my beloved wife; I suffered a stroke in 2018, it took me about a year to recover and left me with Broca's Aphasia (or expressive aphasia). Moving to Devon had been a benefit as it helped to relieve my stress levels, and it allowed us to be closer to our grandkids (which was a bonus).
 
 ### My Hobbies
 > [!columns|no-t 3]
